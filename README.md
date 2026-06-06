@@ -55,6 +55,9 @@ Upon clicking the malicious link, the user was redirected to a Microsoft Defende
 
 ![The localized interception page notifying the user that they interacted with a simulated phishing message](images/04-educational-interception.png)
 
+![The user also receive a notification that he was assigned a course to avoid this threat in future ](images/03-educational-interception.png)
+
+
 ### 2. Multi-Lingual Training Assignment
 Following the interception, Defender for Office 365 automatically assigned targeted remedial training to the compromised users based on their localized language settings.
 
