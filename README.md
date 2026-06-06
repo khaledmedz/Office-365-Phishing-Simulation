@@ -1,4 +1,4 @@
-# Attack Simulation Training: Credential Harvest Campaign & Security Posture Analysis
+# Measuring Human Risk: Phishing Simulation, Compromise Analysis & Remediation in Defender for Office 365
 
 ## Overview
 Human error remains one of the largest vulnerabilities in any corporate environment. The objective of this project was to design, execute, and analyze a corporate-wide phishing simulation using the **Attack Simulation Training** capability within Microsoft Defender for Office 365. 
